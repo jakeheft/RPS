@@ -1,0 +1,1 @@
+This is a Javascipt game of rock paper scissors. This was created by Jake Heft on 6/16 and is his first JS project.
